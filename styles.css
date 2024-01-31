@@ -10,6 +10,12 @@ body {
     color: #FFF;
 }
 
+#header-logo {
+    width: 100%; /* Make the logo stretch across the container */
+    height: auto; /* Maintain the aspect ratio */
+    margin-bottom: 20px; /* Adjust margin as needed */
+}
+
 #landing-page, #approval-page {
     text-align: center;
 }
